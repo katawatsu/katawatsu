@@ -17,7 +17,7 @@
     `-.,.,.,.,.,.,.,.,.,.,.,-'                   `.......'    (____)|___|\____(__/    / /      \ \                       \ \
     
 ```
-<h1 align="center"> 🚧 @Katawatsu's Profile is Currently Under Construction 🚧 </h1>
+<h1 align="center"> 🚧 @katawatsu's Profile is Currently Under Construction 🚧 </h1>
 <p align="center"> Check the Roadmap Below for Details </p>
       
 <h3 align="center"> 👋, I'm @katawatsu </h3>
