@@ -30,7 +30,7 @@
 - 💻 A portfolio site is in the works! It'll get posted here too.
 <div align="center">
 "If you have a computer and internet, you have everything you need"
- - my play on Marcus Cicero's Garden & Library
+ - a take on Marcus Cicero's Garden & Library
 </div>
 
 
