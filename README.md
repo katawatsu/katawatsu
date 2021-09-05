@@ -8,13 +8,13 @@
                    ________/  / /                   |  | |
                   | _  ____\ / /                    |  | |
  _.-----._________|| ||    \\ /                     |  | |
-|=================||=||_____\\                      |__|-'                                   ________________________
-|                 ||_||_____//                      (o\ |              __                  /\      ______________    \
-|_________________|_________/                        |-\|            _(__)                /  \_____\     UNDER   \____\
- `-------------._______.----'                        /  `.       ___(___)|__)            / /\ \_____\ DEVELOPMENT \__\_\
-    .,.,.,.,.,.,.,.,.,.,.,.,.,                      /     \     (___)\__/__)(_)         / /  \ \     \______________\   \
-   ((O) o o o o ======= o o(O))                 ._.'      /    |__/|___)|___)(__)      / /    \ \________________________\
-    `-.,.,.,.,.,.,.,.,.,.,.,-'                   `.......'    (____)|___|\____(__/    / /      \ \                       \ \
+|=================||=||_____\\                      |__|-'                                ________________________
+|                 ||_||_____//                      (o\ |              __                /\      ______________    \
+|_________________|_________/                        |-\|            _(__)              /  \_____\     UNDER   \____\
+ `-------------._______.----'                        /  `.       ___(___)|__)          / /\ \_____\ DEVELOPMENT \__\_\
+    .,.,.,.,.,.,.,.,.,.,.,.,.,                      /     \     (___)\__/__)(_)       / /  \ \     \______________\   \
+   ((O) o o o o ======= o o(O))                 ._.'      /    |__/|___)|___)(__)    / /    \ \________________________\
+    `-.,.,.,.,.,.,.,.,.,.,.,-'                   `.......'    (____)|___|\____(__/  / /      \ \                      \ \
     
 ```
 <h1 align="center"> 🚧 @theLoganaut's Profile is Currently Under Construction 🚧 </h1>
@@ -25,8 +25,8 @@
 
 
 - 👀 I’m currently interested in front end web development & design.
-- 🌱 I’m currently learning React and React Native building off the 🏗️ AWS infrastructure as a Certified Cloud Practicioner.
-- 💞️ I enjoy building out aesthetic designs, and clean intuitive apps.
+- 🌱 I'm current detoured into learning Java and Spring. Weird thing is Java is the easy part.
+- 💞️ I learning all things software and filling language knowledge gaps.
 - 💻 A portfolio site is in the works! It'll get posted here too.
 <div align="center">
 "If you have a computer and internet, you have everything you need"
@@ -34,7 +34,7 @@
 </div>
 
 
-<h3 align="center"> 🚦 ROADMAP 🚦 </h3>
+<h3 align="center"> 🚦 ROADMAP(NOW DELAYED, REACT=JAVA) 🚦 </h3>
 
 ```
                                 _________________________   _________________________
