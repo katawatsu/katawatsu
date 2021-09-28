@@ -25,7 +25,7 @@
 
 
 - 👀 I’m currently interested in front end web development & design.
-- 🌱 I'm current detoured into learning Java and Spring. Weird thing is Java is the easy part.
+- 🌱 I'm current building the website! It's retro, like '95 retro.
 - 💞️ I like learning all things software and filling language knowledge gaps.
 - 💻 A portfolio site is in the works! It'll get posted here too.
 - ⏳ I'm really bad at checking emails while I'm learning, so give me a day or two please!
@@ -35,7 +35,7 @@
 </div>
 
 
-<h3 align="center"> 🚦 ROADMAP(NOW DELAYED, REACT=JAVA) 🚦 </h3>
+<h3 align="center"> 🚦 ROADMAP 🚦 </h3>
 
 ```
                                 _________________________   _________________________
