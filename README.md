@@ -20,14 +20,13 @@
 <h1 align="center"> 🚧 @theLoganaut's Profile is Currently Under Construction 🚧 </h1>
 <p align="center"> Check the Roadmap Below for Details </p>
       
-<h3 align="center"> 👋, I'm @theLoganaut's </h3>
+<h3 align="center"> 👋, I'm @theLoganaut </h3>
 <p align="center">but upon reading this you may refer to me as Logan! some things about me are;</p>
 
 
 - 👀 I’m currently interested in front end web development & design.
-- 🌱 My website is live at <a href="https://theloganaut.github.io/">https://theloganaut.github.io/<a/>
-- 💞️ I like learning all things software and filling language knowledge gaps.
-- 💻 A portfolio site is in the works! It'll get posted here too.
+- 💞️ I like learning all things software and coming up with amazing ideas (that are way out of scope for me)!
+- 💻 My website is live at <a href="https://theloganaut.github.io/">https://theloganaut.github.io/<a/> ! Let me know what you think!
 - ⏳ I'm really bad at checking emails while I'm learning, so give me a day or two please!
 <div align="center">
 "If you have a computer and internet, you have everything you need"
@@ -47,9 +46,9 @@
  
  ______________________         ____________________________         _________________________          __________________
 |                      |       |                            |       |                          |       |                  |
-|  Building projects   | __|\  |  Build the first iteration | __|\  |Apply for oppurtunties of | __|\  | Grow my skillset |
-|   in ReactJs that    ||__   >|  of my website and update  ||__   >| growth while continuing  ||__   >| into a fullstack |
-| showcase my learning.|   |/  |    my social footprint.    |   |/  |to build passion projects.|   |/  |data analytics dev|
+|   ̶B̶u̶i̶l̶d̶i̶n̶g̶ ̶p̶r̶o̶j̶e̶c̶t̶s̶  | __|\  |  ̶B̶u̶i̶l̶d̶ ̶t̶h̶e̶ ̶f̶i̶r̶s̶t̶ ̶i̶t̶e̶r̶a̶t̶i̶o̶n̶ | __|\  |Apply for oppurtunties of | __|\  | Grow my skillset |
+|    ̶i̶n̶ ̶R̶e̶a̶c̶t̶J̶s̶ ̶t̶h̶a̶t̶   ||__   >|  ̶o̶f̶ ̶m̶y̶ ̶w̶e̶b̶s̶i̶t̶e̶ ̶a̶n̶d̶ ̶u̶p̶d̶a̶t̶e̶  ||__   >| growth while continuing  ||__   >| into a fullstack |
+| s̶h̶o̶w̶c̶a̶s̶e̶ ̶m̶y̶ ̶l̶e̶a̶r̶n̶i̶n̶g̶.|   |/  |    ̶m̶y̶ ̶s̶o̶c̶i̶a̶l̶ ̶f̶o̶o̶t̶p̶r̶i̶n̶t̶.̶    |   |/  |to build passion projects.|   |/  |data analytics dev|
 |______________________|       |____________________________|       |__________________________|       |__________________|
   
 ```
