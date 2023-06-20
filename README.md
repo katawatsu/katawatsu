@@ -27,7 +27,7 @@
 - 👀 I’m currently interested in front end web development & design.
 - 💞️ I like learning all things software and coming up with amazing ideas (that are way out of scope for me)!
 - 💻 My website is live at <a href="https://logan-duncan.com/">https://logan-duncan.com/<a/> ! Let me know what you think!
-- ⏳ I'm really bad at checking emails while I'm learning, so give me a day or two please!
+  
 <div align="center">
 "If you have a computer and internet, you have everything you need"
  - a take on Marcus Cicero's Garden & Library
