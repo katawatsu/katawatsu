@@ -46,7 +46,7 @@
  
  ______________________         ____________________________         _________________________          __________________
 |                      |       |                            |       |                          |       |                  |
-|   ̶B̶u̶i̶l̶d̶i̶n̶g̶ ̶p̶r̶o̶j̶e̶c̶t̶s̶  | __|\  |  ̶B̶u̶i̶l̶d̶ ̶t̶h̶e̶ ̶f̶i̶r̶s̶t̶ ̶i̶t̶e̶r̶a̶t̶i̶o̶n̶ | __|\  |Apply for oppurtunties of | __|\  | Grow my skillset |
+|   ̶B̶u̶i̶l̶d̶i̶n̶g̶ ̶p̶r̶o̶j̶e̶c̶t̶s̶  | __|\  | ̶B̶u̶i̶l̶d̶ ̶t̶h̶e̶ ̶s̶e̶c̶o̶n̶d̶ ̶i̶t̶e̶r̶a̶t̶i̶o̶n̶ | __|\  |Apply for oppurtunties of | __|\  | Grow my skillset |
 |    ̶i̶n̶ ̶R̶e̶a̶c̶t̶J̶s̶ ̶t̶h̶a̶t̶   ||__   >|  ̶o̶f̶ ̶m̶y̶ ̶w̶e̶b̶s̶i̶t̶e̶ ̶a̶n̶d̶ ̶u̶p̶d̶a̶t̶e̶  ||__   >| growth while continuing  ||__   >| into a fullstack |
 | s̶h̶o̶w̶c̶a̶s̶e̶ ̶m̶y̶ ̶l̶e̶a̶r̶n̶i̶n̶g̶.|   |/  |    ̶m̶y̶ ̶s̶o̶c̶i̶a̶l̶ ̶f̶o̶o̶t̶p̶r̶i̶n̶t̶.̶    |   |/  |to build passion projects.|   |/  |data analytics dev|
 |______________________|       |____________________________|       |__________________________|       |__________________|
